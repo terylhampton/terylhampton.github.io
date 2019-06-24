@@ -1,0 +1,88 @@
+
+
+body {
+  background-color: #b3ffff;
+  color: navy;
+  font-family: "Georgia", serif;
+}
+
+h1, h2 {
+  text-align: center;
+  color: navy;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+li {
+background-color: white;
+padding: 30px;
+font-size: 30px;
+width: 15%;
+text-align: center;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+
+li:hover {
+  /* border: 2px solid black; */
+  opacity: 0.5;
+}
+
+/* h1 {
+  text-align: center;
+  text-transform: lowercase;
+  letter-spacing: 1.5px;
+  font-weight: normal;
+  font-size: 60px;
+} */
+/*
+a {
+  text-decoration: none;
+}
+
+p {
+  text-align: center;
+  font-weight: bold;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+} */
+
+/* .mammals {
+  color: red;
+  padding: 0px 30px;
+} */
+/*
+.fish {
+  color: orange;
+  text-decoration: underline;
+  padding: 30px;
+  margin-top: 40px;
+}
+
+.birds {
+  color:blue;
+  font-style: italic;
+  margin-top: 30px;
+  padding-bottom: 40px;
+}
+
+#firstList {
+  background-color: lime;
+} */
